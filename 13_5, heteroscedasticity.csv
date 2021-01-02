@@ -1,0 +1,1001 @@
+Company,Budget,Visits,AdType
+1,50,4054,Radio and Podcasts
+2,51,4018,Direct Mail
+3,52,4074,Direct Mail
+4,53,4030,Direct Mail
+5,54,4084,Video Ads
+6,55,4043,Social Media Ads
+7,56,4072,Outdoor Ads
+8,57,4077,Direct Mail
+9,58,4052,Video Ads
+10,59,4046,Social Media Ads
+11,60,4055,Outdoor Ads
+12,61,4067,Direct Mail
+13,62,4050,Social Media Ads
+14,63,4087,Social Media Ads
+15,64,4057,Social Media Ads
+16,65,4053,Direct Mail
+17,66,4081,Radio and Podcasts
+18,67,4038,Social Media Ads
+19,68,4074,Outdoor Ads
+20,69,4091,Outdoor Ads
+21,70,4069,Radio and Podcasts
+22,71,4097,Direct Mail
+23,72,4053,Radio and Podcasts
+24,73,4019,Direct Mail
+25,74,4023,Outdoor Ads
+26,75,4057,Direct Mail
+27,76,4013,Social Media Ads
+28,77,4011,Outdoor Ads
+29,78,4000,Radio and Podcasts
+30,79,4088,Radio and Podcasts
+31,80,4094,Outdoor Ads
+32,81,4060,Outdoor Ads
+33,82,4098,Social Media Ads
+34,83,4044,Outdoor Ads
+35,84,4068,Direct Mail
+36,85,4021,Radio and Podcasts
+37,86,4089,Radio and Podcasts
+38,87,4072,Direct Mail
+39,88,4004,Social Media Ads
+40,89,4120,Social Media Ads
+41,90,3990,Radio and Podcasts
+42,91,4059,Direct Mail
+43,92,4064,Social Media Ads
+44,93,4176,Radio and Podcasts
+45,94,4086,Outdoor Ads
+46,95,4167,Outdoor Ads
+47,96,4044,Direct Mail
+48,97,4135,Direct Mail
+49,98,3982,Direct Mail
+50,99,4072,Direct Mail
+51,100,4064,Outdoor Ads
+52,101,4132,Video Ads
+53,102,4133,Direct Mail
+54,103,4130,Radio and Podcasts
+55,104,4141,Direct Mail
+56,105,4045,Social Media Ads
+57,106,4080,Direct Mail
+58,107,4047,Outdoor Ads
+59,108,4022,Radio and Podcasts
+60,109,4160,Outdoor Ads
+61,110,4083,Social Media Ads
+62,111,4181,Social Media Ads
+63,112,4152,Outdoor Ads
+64,113,4157,Direct Mail
+65,114,4118,Social Media Ads
+66,115,4135,Video Ads
+67,116,4221,Direct Mail
+68,117,4068,Social Media Ads
+69,118,4153,Outdoor Ads
+70,119,4143,Outdoor Ads
+71,120,4182,Direct Mail
+72,121,4109,Social Media Ads
+73,122,4150,Radio and Podcasts
+74,123,4121,Video Ads
+75,124,3962,Outdoor Ads
+76,125,4170,Direct Mail
+77,126,4072,Direct Mail
+78,127,4218,Radio and Podcasts
+79,128,4220,Social Media Ads
+80,129,4165,Radio and Podcasts
+81,130,4099,Direct Mail
+82,131,4155,Direct Mail
+83,132,4170,Outdoor Ads
+84,133,4119,Video Ads
+85,134,4239,Outdoor Ads
+86,135,4066,Direct Mail
+87,136,4171,Video Ads
+88,137,4114,Social Media Ads
+89,138,4047,Radio and Podcasts
+90,139,4132,Video Ads
+91,140,4098,Video Ads
+92,141,4175,Direct Mail
+93,142,4192,Direct Mail
+94,143,4071,Radio and Podcasts
+95,144,4122,Social Media Ads
+96,145,4243,Video Ads
+97,146,4147,Direct Mail
+98,147,4114,Direct Mail
+99,148,4046,Outdoor Ads
+100,149,4067,Radio and Podcasts
+101,150,4133,Outdoor Ads
+102,151,4161,Direct Mail
+103,152,4226,Social Media Ads
+104,153,4153,Social Media Ads
+105,154,4284,Social Media Ads
+106,155,4207,Direct Mail
+107,156,4406,Social Media Ads
+108,157,4156,Video Ads
+109,158,4225,Social Media Ads
+110,159,4198,Outdoor Ads
+111,160,4210,Direct Mail
+112,161,4144,Radio and Podcasts
+113,162,4124,Outdoor Ads
+114,163,4042,Radio and Podcasts
+115,164,4065,Direct Mail
+116,165,4036,Outdoor Ads
+117,166,4236,Direct Mail
+118,167,4265,Direct Mail
+119,168,4289,Video Ads
+120,169,4167,Outdoor Ads
+121,170,4080,Outdoor Ads
+122,171,4314,Radio and Podcasts
+123,172,4118,Video Ads
+124,173,4370,Video Ads
+125,174,4400,Social Media Ads
+126,175,4034,Direct Mail
+127,176,4138,Social Media Ads
+128,177,4033,Video Ads
+129,178,4196,Radio and Podcasts
+130,179,4238,Social Media Ads
+131,180,4172,Social Media Ads
+132,181,4173,Video Ads
+133,182,4044,Video Ads
+134,183,4234,Direct Mail
+135,184,4234,Outdoor Ads
+136,185,4101,Social Media Ads
+137,186,4160,Social Media Ads
+138,187,4179,Direct Mail
+139,188,4111,Social Media Ads
+140,189,4092,Direct Mail
+141,190,4290,Video Ads
+142,191,4210,Direct Mail
+143,192,4100,Radio and Podcasts
+144,193,4132,Social Media Ads
+145,194,4429,Social Media Ads
+146,195,4095,Direct Mail
+147,196,4347,Radio and Podcasts
+148,197,4282,Video Ads
+149,198,4296,Direct Mail
+150,199,4070,Video Ads
+151,200,4157,Social Media Ads
+152,201,4288,Direct Mail
+153,202,3942,Direct Mail
+154,203,4053,Direct Mail
+155,204,4239,Video Ads
+156,205,4262,Radio and Podcasts
+157,206,4174,Video Ads
+158,207,4227,Direct Mail
+159,208,4206,Social Media Ads
+160,209,4352,Radio and Podcasts
+161,210,4323,Outdoor Ads
+162,211,4175,Outdoor Ads
+163,212,4253,Social Media Ads
+164,213,4261,Outdoor Ads
+165,214,3989,Social Media Ads
+166,215,4200,Direct Mail
+167,216,4238,Radio and Podcasts
+168,217,4149,Outdoor Ads
+169,218,4199,Video Ads
+170,219,4156,Direct Mail
+171,220,4264,Direct Mail
+172,221,4205,Social Media Ads
+173,222,4397,Social Media Ads
+174,223,3963,Outdoor Ads
+175,224,4160,Outdoor Ads
+176,225,4173,Direct Mail
+177,226,4447,Direct Mail
+178,227,4444,Social Media Ads
+179,228,4363,Radio and Podcasts
+180,229,4171,Radio and Podcasts
+181,230,4298,Outdoor Ads
+182,231,4240,Outdoor Ads
+183,232,4362,Social Media Ads
+184,233,4168,Radio and Podcasts
+185,234,4266,Social Media Ads
+186,235,4089,Radio and Podcasts
+187,236,4358,Direct Mail
+188,237,3943,Social Media Ads
+189,238,4070,Outdoor Ads
+190,239,4203,Social Media Ads
+191,240,4116,Video Ads
+192,241,4261,Direct Mail
+193,242,4417,Radio and Podcasts
+194,243,4237,Direct Mail
+195,244,4295,Outdoor Ads
+196,245,3977,Social Media Ads
+197,246,4285,Direct Mail
+198,247,4485,Outdoor Ads
+199,248,4145,Direct Mail
+200,249,4036,Outdoor Ads
+201,250,4367,Radio and Podcasts
+202,251,4088,Direct Mail
+203,252,4293,Radio and Podcasts
+204,253,4350,Video Ads
+205,254,4167,Video Ads
+206,255,4394,Direct Mail
+207,256,4320,Radio and Podcasts
+208,257,4228,Video Ads
+209,258,4279,Video Ads
+210,259,4121,Video Ads
+211,260,4295,Social Media Ads
+212,261,4293,Social Media Ads
+213,262,4330,Video Ads
+214,263,4268,Social Media Ads
+215,264,4023,Radio and Podcasts
+216,265,4146,Video Ads
+217,266,4297,Video Ads
+218,267,4520,Radio and Podcasts
+219,268,4446,Social Media Ads
+220,269,4480,Outdoor Ads
+221,270,4176,Social Media Ads
+222,271,4098,Direct Mail
+223,272,4292,Radio and Podcasts
+224,273,4211,Social Media Ads
+225,274,4462,Outdoor Ads
+226,275,4351,Radio and Podcasts
+227,276,4411,Direct Mail
+228,277,4413,Direct Mail
+229,278,4237,Direct Mail
+230,279,4322,Social Media Ads
+231,280,4396,Direct Mail
+232,281,4259,Direct Mail
+233,282,4275,Video Ads
+234,283,4249,Social Media Ads
+235,284,4248,Video Ads
+236,285,4187,Radio and Podcasts
+237,286,4210,Video Ads
+238,287,4339,Radio and Podcasts
+239,288,4122,Radio and Podcasts
+240,289,4344,Video Ads
+241,290,4105,Direct Mail
+242,291,4451,Radio and Podcasts
+243,292,4260,Video Ads
+244,293,4361,Outdoor Ads
+245,294,4328,Outdoor Ads
+246,295,4393,Social Media Ads
+247,296,4350,Video Ads
+248,297,4337,Outdoor Ads
+249,298,3983,Video Ads
+250,299,4354,Outdoor Ads
+251,300,4346,Direct Mail
+252,301,4478,Outdoor Ads
+253,302,4212,Outdoor Ads
+254,303,4167,Outdoor Ads
+255,304,4543,Direct Mail
+256,305,4312,Radio and Podcasts
+257,306,4155,Radio and Podcasts
+258,307,4331,Video Ads
+259,308,4566,Social Media Ads
+260,309,4592,Radio and Podcasts
+261,310,4457,Radio and Podcasts
+262,311,4048,Radio and Podcasts
+263,312,4346,Radio and Podcasts
+264,313,4006,Outdoor Ads
+265,314,4282,Direct Mail
+266,315,4367,Video Ads
+267,316,4293,Social Media Ads
+268,317,4117,Direct Mail
+269,318,4420,Social Media Ads
+270,319,4164,Radio and Podcasts
+271,320,4241,Direct Mail
+272,321,4227,Social Media Ads
+273,322,4334,Outdoor Ads
+274,323,4335,Direct Mail
+275,324,4546,Radio and Podcasts
+276,325,4535,Video Ads
+277,326,4529,Outdoor Ads
+278,327,4426,Outdoor Ads
+279,328,4348,Direct Mail
+280,329,4175,Outdoor Ads
+281,330,4625,Video Ads
+282,331,4478,Social Media Ads
+283,332,4247,Radio and Podcasts
+284,333,4387,Outdoor Ads
+285,334,4502,Direct Mail
+286,335,4242,Video Ads
+287,336,4532,Outdoor Ads
+288,337,4292,Direct Mail
+289,338,4418,Video Ads
+290,339,4526,Video Ads
+291,340,4427,Direct Mail
+292,341,4734,Video Ads
+293,342,4660,Video Ads
+294,343,4398,Direct Mail
+295,344,4305,Video Ads
+296,345,4624,Video Ads
+297,346,4217,Video Ads
+298,347,4652,Outdoor Ads
+299,348,4431,Direct Mail
+300,349,4359,Video Ads
+301,350,4518,Outdoor Ads
+302,351,4602,Direct Mail
+303,352,4116,Video Ads
+304,353,4090,Radio and Podcasts
+305,354,4231,Direct Mail
+306,355,4524,Outdoor Ads
+307,356,4406,Direct Mail
+308,357,4606,Radio and Podcasts
+309,358,4218,Social Media Ads
+310,359,4116,Direct Mail
+311,360,4436,Social Media Ads
+312,361,4484,Social Media Ads
+313,362,4523,Outdoor Ads
+314,363,4329,Outdoor Ads
+315,364,4437,Radio and Podcasts
+316,365,4237,Video Ads
+317,366,4081,Radio and Podcasts
+318,367,4351,Radio and Podcasts
+319,368,4531,Video Ads
+320,369,4800,Radio and Podcasts
+321,370,4416,Video Ads
+322,371,4384,Radio and Podcasts
+323,372,4440,Outdoor Ads
+324,373,4092,Radio and Podcasts
+325,374,4186,Social Media Ads
+326,375,4194,Radio and Podcasts
+327,376,4675,Social Media Ads
+328,377,4204,Social Media Ads
+329,378,4623,Direct Mail
+330,379,4502,Direct Mail
+331,380,4612,Radio and Podcasts
+332,381,4341,Video Ads
+333,382,4000,Radio and Podcasts
+334,383,4473,Radio and Podcasts
+335,384,4353,Outdoor Ads
+336,385,4448,Direct Mail
+337,386,4189,Radio and Podcasts
+338,387,4601,Social Media Ads
+339,388,4308,Outdoor Ads
+340,389,4290,Video Ads
+341,390,4340,Social Media Ads
+342,391,4297,Video Ads
+343,392,4025,Radio and Podcasts
+344,393,4174,Direct Mail
+345,394,4482,Video Ads
+346,395,4430,Outdoor Ads
+347,396,4396,Direct Mail
+348,397,4401,Social Media Ads
+349,398,4318,Outdoor Ads
+350,399,4642,Direct Mail
+351,400,4105,Outdoor Ads
+352,401,4534,Outdoor Ads
+353,402,4412,Video Ads
+354,403,4323,Video Ads
+355,404,4332,Video Ads
+356,405,4602,Video Ads
+357,406,4049,Video Ads
+358,407,4432,Video Ads
+359,408,4317,Outdoor Ads
+360,409,4439,Video Ads
+361,410,4417,Social Media Ads
+362,411,4239,Video Ads
+363,412,4603,Radio and Podcasts
+364,413,4302,Outdoor Ads
+365,414,4381,Video Ads
+366,415,4783,Video Ads
+367,416,4139,Outdoor Ads
+368,417,4548,Video Ads
+369,418,4316,Social Media Ads
+370,419,4404,Radio and Podcasts
+371,420,4750,Direct Mail
+372,421,4461,Radio and Podcasts
+373,422,4241,Video Ads
+374,423,4562,Radio and Podcasts
+375,424,4410,Direct Mail
+376,425,4343,Video Ads
+377,426,4251,Direct Mail
+378,427,4361,Radio and Podcasts
+379,428,4752,Outdoor Ads
+380,429,4374,Radio and Podcasts
+381,430,4329,Direct Mail
+382,431,4351,Outdoor Ads
+383,432,4780,Radio and Podcasts
+384,433,4492,Radio and Podcasts
+385,434,4515,Video Ads
+386,435,4455,Radio and Podcasts
+387,436,3850,Radio and Podcasts
+388,437,4267,Social Media Ads
+389,438,4272,Social Media Ads
+390,439,4698,Direct Mail
+391,440,3995,Direct Mail
+392,441,4401,Video Ads
+393,442,4275,Social Media Ads
+394,443,4422,Social Media Ads
+395,444,4309,Video Ads
+396,445,4068,Social Media Ads
+397,446,4970,Outdoor Ads
+398,447,4824,Direct Mail
+399,448,4335,Direct Mail
+400,449,4829,Video Ads
+401,450,4539,Video Ads
+402,451,4643,Social Media Ads
+403,452,4169,Direct Mail
+404,453,4356,Video Ads
+405,454,4420,Social Media Ads
+406,455,4449,Video Ads
+407,456,4365,Social Media Ads
+408,457,4102,Social Media Ads
+409,458,4415,Outdoor Ads
+410,459,4816,Direct Mail
+411,460,4266,Video Ads
+412,461,4581,Video Ads
+413,462,4452,Social Media Ads
+414,463,4364,Outdoor Ads
+415,464,4518,Radio and Podcasts
+416,465,4497,Direct Mail
+417,466,4714,Radio and Podcasts
+418,467,4853,Outdoor Ads
+419,468,3803,Direct Mail
+420,469,4319,Social Media Ads
+421,470,4462,Social Media Ads
+422,471,4640,Radio and Podcasts
+423,472,4394,Radio and Podcasts
+424,473,4615,Direct Mail
+425,474,4223,Social Media Ads
+426,475,4568,Video Ads
+427,476,4246,Radio and Podcasts
+428,477,4441,Outdoor Ads
+429,478,4608,Direct Mail
+430,479,4442,Radio and Podcasts
+431,480,4010,Direct Mail
+432,481,4356,Social Media Ads
+433,482,4026,Radio and Podcasts
+434,483,3957,Radio and Podcasts
+435,484,4613,Video Ads
+436,485,4379,Radio and Podcasts
+437,486,4742,Video Ads
+438,487,4599,Social Media Ads
+439,488,4220,Video Ads
+440,489,4699,Direct Mail
+441,490,4686,Outdoor Ads
+442,491,4991,Outdoor Ads
+443,492,4403,Direct Mail
+444,493,4364,Social Media Ads
+445,494,4611,Radio and Podcasts
+446,495,4447,Radio and Podcasts
+447,496,4844,Outdoor Ads
+448,497,4976,Radio and Podcasts
+449,498,4334,Video Ads
+450,499,4620,Video Ads
+451,500,4756,Social Media Ads
+452,501,4523,Outdoor Ads
+453,502,4238,Video Ads
+454,503,4407,Outdoor Ads
+455,504,4439,Video Ads
+456,505,4616,Video Ads
+457,506,4485,Outdoor Ads
+458,507,4257,Social Media Ads
+459,508,4140,Social Media Ads
+460,509,4150,Direct Mail
+461,510,4572,Social Media Ads
+462,511,4358,Direct Mail
+463,512,4316,Radio and Podcasts
+464,513,4782,Video Ads
+465,514,4864,Radio and Podcasts
+466,515,4630,Video Ads
+467,516,4747,Radio and Podcasts
+468,517,4282,Radio and Podcasts
+469,518,4380,Radio and Podcasts
+470,519,4512,Outdoor Ads
+471,520,4368,Outdoor Ads
+472,521,4637,Outdoor Ads
+473,522,4050,Outdoor Ads
+474,523,4346,Video Ads
+475,524,4549,Social Media Ads
+476,525,4238,Outdoor Ads
+477,526,4309,Direct Mail
+478,527,4539,Radio and Podcasts
+479,528,4466,Social Media Ads
+480,529,4456,Direct Mail
+481,530,4726,Direct Mail
+482,531,4044,Direct Mail
+483,532,4311,Video Ads
+484,533,4771,Video Ads
+485,534,4690,Radio and Podcasts
+486,535,4557,Direct Mail
+487,536,4858,Social Media Ads
+488,537,4949,Video Ads
+489,538,3769,Radio and Podcasts
+490,539,4073,Outdoor Ads
+491,540,4623,Social Media Ads
+492,541,4348,Video Ads
+493,542,4654,Social Media Ads
+494,543,4503,Direct Mail
+495,544,4424,Social Media Ads
+496,545,4821,Outdoor Ads
+497,546,4414,Direct Mail
+498,547,4546,Outdoor Ads
+499,548,4438,Social Media Ads
+500,549,4712,Video Ads
+501,550,4592,Social Media Ads
+502,551,4431,Social Media Ads
+503,552,4349,Video Ads
+504,553,4331,Radio and Podcasts
+505,554,4588,Outdoor Ads
+506,555,4289,Video Ads
+507,556,4428,Direct Mail
+508,557,4249,Outdoor Ads
+509,558,4135,Video Ads
+510,559,4430,Direct Mail
+511,560,5307,Radio and Podcasts
+512,561,4182,Video Ads
+513,562,4625,Direct Mail
+514,563,4635,Video Ads
+515,564,4741,Radio and Podcasts
+516,565,4349,Outdoor Ads
+517,566,3957,Video Ads
+518,567,4770,Video Ads
+519,568,4609,Video Ads
+520,569,5024,Video Ads
+521,570,4530,Video Ads
+522,571,4235,Outdoor Ads
+523,572,4888,Direct Mail
+524,573,4393,Radio and Podcasts
+525,574,5100,Radio and Podcasts
+526,575,4319,Direct Mail
+527,576,4651,Direct Mail
+528,577,4708,Social Media Ads
+529,578,4935,Radio and Podcasts
+530,579,3992,Direct Mail
+531,580,4302,Social Media Ads
+532,581,4711,Radio and Podcasts
+533,582,5001,Radio and Podcasts
+534,583,4846,Social Media Ads
+535,584,4904,Direct Mail
+536,585,4504,Social Media Ads
+537,586,4335,Social Media Ads
+538,587,4315,Video Ads
+539,588,4761,Direct Mail
+540,589,5323,Radio and Podcasts
+541,590,4662,Outdoor Ads
+542,591,4892,Video Ads
+543,592,4735,Outdoor Ads
+544,593,4447,Radio and Podcasts
+545,594,4562,Radio and Podcasts
+546,595,4219,Social Media Ads
+547,596,4941,Radio and Podcasts
+548,597,4367,Direct Mail
+549,598,4221,Video Ads
+550,599,4978,Outdoor Ads
+551,600,4703,Video Ads
+552,601,4150,Direct Mail
+553,602,5209,Video Ads
+554,603,4801,Outdoor Ads
+555,604,4321,Social Media Ads
+556,605,4815,Outdoor Ads
+557,606,4446,Radio and Podcasts
+558,607,4899,Radio and Podcasts
+559,608,4104,Direct Mail
+560,609,4684,Direct Mail
+561,610,5089,Video Ads
+562,611,4002,Video Ads
+563,612,4750,Video Ads
+564,613,4501,Radio and Podcasts
+565,614,4450,Outdoor Ads
+566,615,4922,Social Media Ads
+567,616,3971,Social Media Ads
+568,617,4214,Direct Mail
+569,618,5114,Video Ads
+570,619,5339,Social Media Ads
+571,620,4620,Outdoor Ads
+572,621,5153,Video Ads
+573,622,4470,Video Ads
+574,623,4760,Social Media Ads
+575,624,4653,Outdoor Ads
+576,625,4536,Video Ads
+577,626,4811,Social Media Ads
+578,627,4658,Radio and Podcasts
+579,628,5349,Video Ads
+580,629,4609,Social Media Ads
+581,630,5036,Social Media Ads
+582,631,4467,Direct Mail
+583,632,4691,Video Ads
+584,633,4553,Video Ads
+585,634,4159,Video Ads
+586,635,4825,Radio and Podcasts
+587,636,4855,Social Media Ads
+588,637,4479,Outdoor Ads
+589,638,4402,Radio and Podcasts
+590,639,4451,Outdoor Ads
+591,640,4869,Video Ads
+592,641,4497,Direct Mail
+593,642,4721,Outdoor Ads
+594,643,4645,Video Ads
+595,644,4595,Video Ads
+596,645,4237,Outdoor Ads
+597,646,4822,Social Media Ads
+598,647,4586,Radio and Podcasts
+599,648,4728,Radio and Podcasts
+600,649,4336,Social Media Ads
+601,650,4833,Video Ads
+602,651,4543,Video Ads
+603,652,4432,Video Ads
+604,653,4021,Radio and Podcasts
+605,654,4553,Direct Mail
+606,655,3920,Video Ads
+607,656,4525,Direct Mail
+608,657,4740,Outdoor Ads
+609,658,4670,Outdoor Ads
+610,659,4285,Direct Mail
+611,660,4982,Video Ads
+612,661,5018,Radio and Podcasts
+613,662,4711,Social Media Ads
+614,663,4804,Outdoor Ads
+615,664,5038,Video Ads
+616,665,4623,Radio and Podcasts
+617,666,4378,Outdoor Ads
+618,667,4585,Social Media Ads
+619,668,4594,Direct Mail
+620,669,4911,Social Media Ads
+621,670,4936,Social Media Ads
+622,671,4323,Social Media Ads
+623,672,4390,Social Media Ads
+624,673,5030,Direct Mail
+625,674,4244,Video Ads
+626,675,4455,Social Media Ads
+627,676,4689,Radio and Podcasts
+628,677,4983,Video Ads
+629,678,4652,Social Media Ads
+630,679,4785,Outdoor Ads
+631,680,4719,Outdoor Ads
+632,681,4958,Radio and Podcasts
+633,682,4553,Direct Mail
+634,683,4824,Direct Mail
+635,684,4113,Radio and Podcasts
+636,685,4702,Social Media Ads
+637,686,4797,Video Ads
+638,687,4744,Social Media Ads
+639,688,4755,Video Ads
+640,689,4726,Radio and Podcasts
+641,690,4922,Radio and Podcasts
+642,691,3817,Social Media Ads
+643,692,4716,Radio and Podcasts
+644,693,4831,Outdoor Ads
+645,694,4569,Social Media Ads
+646,695,4999,Video Ads
+647,696,5077,Direct Mail
+648,697,4168,Outdoor Ads
+649,698,4756,Direct Mail
+650,699,4990,Video Ads
+651,700,5257,Direct Mail
+652,701,4154,Direct Mail
+653,702,4967,Video Ads
+654,703,4590,Outdoor Ads
+655,704,4287,Direct Mail
+656,705,4650,Social Media Ads
+657,706,4643,Video Ads
+658,707,4469,Direct Mail
+659,708,4448,Social Media Ads
+660,709,4426,Direct Mail
+661,710,5171,Video Ads
+662,711,4873,Radio and Podcasts
+663,712,5050,Radio and Podcasts
+664,713,4083,Video Ads
+665,714,5117,Direct Mail
+666,715,4854,Social Media Ads
+667,716,5220,Social Media Ads
+668,717,4668,Direct Mail
+669,718,4403,Radio and Podcasts
+670,719,4713,Social Media Ads
+671,720,4543,Social Media Ads
+672,721,5148,Outdoor Ads
+673,722,4853,Direct Mail
+674,723,4004,Social Media Ads
+675,724,4039,Video Ads
+676,725,4733,Social Media Ads
+677,726,5104,Outdoor Ads
+678,727,4904,Outdoor Ads
+679,728,4210,Outdoor Ads
+680,729,5523,Radio and Podcasts
+681,730,4814,Outdoor Ads
+682,731,4982,Social Media Ads
+683,732,4796,Outdoor Ads
+684,733,4474,Radio and Podcasts
+685,734,5413,Direct Mail
+686,735,4749,Social Media Ads
+687,736,4758,Direct Mail
+688,737,4876,Video Ads
+689,738,4982,Social Media Ads
+690,739,5144,Social Media Ads
+691,740,4760,Radio and Podcasts
+692,741,4990,Outdoor Ads
+693,742,4664,Radio and Podcasts
+694,743,4748,Video Ads
+695,744,4842,Radio and Podcasts
+696,745,5654,Radio and Podcasts
+697,746,4692,Outdoor Ads
+698,747,4785,Outdoor Ads
+699,748,4637,Video Ads
+700,749,5009,Video Ads
+701,750,4694,Direct Mail
+702,751,4559,Direct Mail
+703,752,4648,Social Media Ads
+704,753,4472,Social Media Ads
+705,754,5361,Radio and Podcasts
+706,755,4362,Video Ads
+707,756,4940,Outdoor Ads
+708,757,4647,Radio and Podcasts
+709,758,4586,Outdoor Ads
+710,759,4414,Video Ads
+711,760,4687,Video Ads
+712,761,4718,Video Ads
+713,762,4926,Direct Mail
+714,763,4721,Social Media Ads
+715,764,4816,Radio and Podcasts
+716,765,4682,Outdoor Ads
+717,766,4691,Outdoor Ads
+718,767,4726,Outdoor Ads
+719,768,4114,Radio and Podcasts
+720,769,4840,Radio and Podcasts
+721,770,4926,Radio and Podcasts
+722,771,4627,Social Media Ads
+723,772,5276,Outdoor Ads
+724,773,4105,Outdoor Ads
+725,774,5319,Video Ads
+726,775,4716,Direct Mail
+727,776,4782,Outdoor Ads
+728,777,5421,Radio and Podcasts
+729,778,5049,Radio and Podcasts
+730,779,5315,Social Media Ads
+731,780,4610,Video Ads
+732,781,4996,Direct Mail
+733,782,4386,Direct Mail
+734,783,5887,Direct Mail
+735,784,4816,Social Media Ads
+736,785,5064,Direct Mail
+737,786,5114,Outdoor Ads
+738,787,5328,Outdoor Ads
+739,788,4875,Radio and Podcasts
+740,789,4431,Direct Mail
+741,790,4487,Video Ads
+742,791,4936,Social Media Ads
+743,792,5133,Radio and Podcasts
+744,793,4898,Radio and Podcasts
+745,794,4790,Direct Mail
+746,795,5314,Direct Mail
+747,796,4322,Social Media Ads
+748,797,4767,Outdoor Ads
+749,798,5216,Radio and Podcasts
+750,799,4954,Video Ads
+751,800,4376,Outdoor Ads
+752,801,4582,Direct Mail
+753,802,4704,Outdoor Ads
+754,803,4702,Video Ads
+755,804,5449,Outdoor Ads
+756,805,4393,Direct Mail
+757,806,5490,Video Ads
+758,807,4851,Video Ads
+759,808,4528,Radio and Podcasts
+760,809,4931,Direct Mail
+761,810,4738,Outdoor Ads
+762,811,4384,Outdoor Ads
+763,812,4692,Outdoor Ads
+764,813,5116,Video Ads
+765,814,4837,Video Ads
+766,815,4826,Radio and Podcasts
+767,816,5399,Social Media Ads
+768,817,4054,Social Media Ads
+769,818,4701,Social Media Ads
+770,819,5063,Direct Mail
+771,820,4510,Radio and Podcasts
+772,821,4780,Outdoor Ads
+773,822,5585,Direct Mail
+774,823,4914,Radio and Podcasts
+775,824,4917,Outdoor Ads
+776,825,4803,Video Ads
+777,826,5154,Outdoor Ads
+778,827,4802,Radio and Podcasts
+779,828,4962,Video Ads
+780,829,5033,Direct Mail
+781,830,5674,Direct Mail
+782,831,4521,Outdoor Ads
+783,832,5005,Radio and Podcasts
+784,833,4679,Radio and Podcasts
+785,834,4683,Outdoor Ads
+786,835,4372,Outdoor Ads
+787,836,4904,Radio and Podcasts
+788,837,4426,Video Ads
+789,838,4856,Outdoor Ads
+790,839,4370,Social Media Ads
+791,840,4644,Direct Mail
+792,841,4931,Video Ads
+793,842,5043,Video Ads
+794,843,5159,Radio and Podcasts
+795,844,4348,Video Ads
+796,845,4148,Radio and Podcasts
+797,846,5023,Outdoor Ads
+798,847,4285,Video Ads
+799,848,5016,Video Ads
+800,849,4885,Outdoor Ads
+801,850,4416,Social Media Ads
+802,851,5305,Video Ads
+803,852,4537,Video Ads
+804,853,5034,Direct Mail
+805,854,5149,Direct Mail
+806,855,4455,Radio and Podcasts
+807,856,5209,Outdoor Ads
+808,857,4250,Direct Mail
+809,858,5032,Radio and Podcasts
+810,859,4288,Direct Mail
+811,860,4670,Radio and Podcasts
+812,861,5229,Radio and Podcasts
+813,862,4200,Outdoor Ads
+814,863,5198,Outdoor Ads
+815,864,5163,Direct Mail
+816,865,5125,Direct Mail
+817,866,5480,Radio and Podcasts
+818,867,4733,Direct Mail
+819,868,5004,Video Ads
+820,869,4009,Outdoor Ads
+821,870,4469,Direct Mail
+822,871,5293,Radio and Podcasts
+823,872,4629,Social Media Ads
+824,873,4640,Video Ads
+825,874,4852,Radio and Podcasts
+826,875,5159,Video Ads
+827,876,4843,Outdoor Ads
+828,877,4671,Outdoor Ads
+829,878,4761,Radio and Podcasts
+830,879,5477,Direct Mail
+831,880,4443,Radio and Podcasts
+832,881,4434,Video Ads
+833,882,4680,Video Ads
+834,883,4682,Direct Mail
+835,884,4703,Video Ads
+836,885,5157,Outdoor Ads
+837,886,4412,Direct Mail
+838,887,4474,Social Media Ads
+839,888,4722,Outdoor Ads
+840,889,5154,Direct Mail
+841,890,4716,Radio and Podcasts
+842,891,4611,Radio and Podcasts
+843,892,4726,Social Media Ads
+844,893,4629,Direct Mail
+845,894,4832,Outdoor Ads
+846,895,4800,Outdoor Ads
+847,896,4464,Social Media Ads
+848,897,4908,Video Ads
+849,898,4763,Direct Mail
+850,899,5231,Outdoor Ads
+851,900,4366,Social Media Ads
+852,901,5011,Radio and Podcasts
+853,902,5324,Direct Mail
+854,903,5629,Social Media Ads
+855,904,5454,Radio and Podcasts
+856,905,4725,Direct Mail
+857,906,4481,Social Media Ads
+858,907,5230,Direct Mail
+859,908,5467,Radio and Podcasts
+860,909,5421,Social Media Ads
+861,910,4620,Direct Mail
+862,911,5260,Video Ads
+863,912,4785,Outdoor Ads
+864,913,4517,Social Media Ads
+865,914,5053,Direct Mail
+866,915,4886,Social Media Ads
+867,916,5059,Direct Mail
+868,917,4716,Outdoor Ads
+869,918,4729,Social Media Ads
+870,919,4426,Radio and Podcasts
+871,920,5484,Outdoor Ads
+872,921,5167,Social Media Ads
+873,922,4742,Video Ads
+874,923,5439,Video Ads
+875,924,4882,Social Media Ads
+876,925,5121,Video Ads
+877,926,5145,Direct Mail
+878,927,5111,Video Ads
+879,928,4792,Video Ads
+880,929,4620,Radio and Podcasts
+881,930,4149,Social Media Ads
+882,931,4984,Radio and Podcasts
+883,932,4155,Video Ads
+884,933,5229,Video Ads
+885,934,4309,Outdoor Ads
+886,935,5194,Direct Mail
+887,936,4968,Outdoor Ads
+888,937,4147,Video Ads
+889,938,4638,Social Media Ads
+890,939,5002,Direct Mail
+891,940,5247,Radio and Podcasts
+892,941,4732,Direct Mail
+893,942,5276,Video Ads
+894,943,5246,Video Ads
+895,944,4450,Video Ads
+896,945,5379,Outdoor Ads
+897,946,5482,Outdoor Ads
+898,947,4592,Outdoor Ads
+899,948,4860,Social Media Ads
+900,949,5173,Direct Mail
+901,950,4872,Video Ads
+902,951,4660,Outdoor Ads
+903,952,4542,Radio and Podcasts
+904,953,5535,Radio and Podcasts
+905,954,5259,Direct Mail
+906,955,4896,Video Ads
+907,956,4662,Outdoor Ads
+908,957,4707,Social Media Ads
+909,958,5125,Outdoor Ads
+910,959,5383,Outdoor Ads
+911,960,5236,Social Media Ads
+912,961,5760,Outdoor Ads
+913,962,4880,Radio and Podcasts
+914,963,4999,Direct Mail
+915,964,5409,Direct Mail
+916,965,5635,Outdoor Ads
+917,966,3695,Direct Mail
+918,967,4794,Video Ads
+919,968,4829,Direct Mail
+920,969,5272,Social Media Ads
+921,970,4972,Radio and Podcasts
+922,971,4767,Outdoor Ads
+923,972,5629,Outdoor Ads
+924,973,5677,Outdoor Ads
+925,974,4458,Outdoor Ads
+926,975,5678,Radio and Podcasts
+927,976,4335,Video Ads
+928,977,5639,Radio and Podcasts
+929,978,4318,Video Ads
+930,979,5244,Video Ads
+931,980,4751,Social Media Ads
+932,981,5549,Social Media Ads
+933,982,5147,Video Ads
+934,983,5207,Outdoor Ads
+935,984,5539,Direct Mail
+936,985,4835,Radio and Podcasts
+937,986,4928,Outdoor Ads
+938,987,5537,Outdoor Ads
+939,988,5944,Radio and Podcasts
+940,989,4854,Radio and Podcasts
+941,990,5705,Outdoor Ads
+942,991,4787,Social Media Ads
+943,992,4698,Social Media Ads
+944,993,5390,Video Ads
+945,994,4799,Direct Mail
+946,995,4458,Video Ads
+947,996,4517,Outdoor Ads
+948,997,5551,Direct Mail
+949,998,4941,Radio and Podcasts
+950,999,4826,Direct Mail
+951,1000,5785,Direct Mail
+952,1001,3984,Direct Mail
+953,1002,4972,Outdoor Ads
+954,1003,4307,Radio and Podcasts
+955,1004,4663,Radio and Podcasts
+956,1005,5525,Radio and Podcasts
+957,1006,5688,Radio and Podcasts
+958,1007,5180,Radio and Podcasts
+959,1008,5472,Outdoor Ads
+960,1009,5293,Social Media Ads
+961,1010,5091,Social Media Ads
+962,1011,4757,Social Media Ads
+963,1012,4824,Direct Mail
+964,1013,5077,Social Media Ads
+965,1014,5456,Outdoor Ads
+966,1015,5117,Social Media Ads
+967,1016,4724,Video Ads
+968,1017,4794,Radio and Podcasts
+969,1018,4438,Social Media Ads
+970,1019,4837,Radio and Podcasts
+971,1020,5771,Radio and Podcasts
+972,1021,5869,Direct Mail
+973,1022,4513,Video Ads
+974,1023,5629,Direct Mail
+975,1024,5017,Video Ads
+976,1025,5169,Direct Mail
+977,1026,5119,Direct Mail
+978,1027,4792,Outdoor Ads
+979,1028,4328,Direct Mail
+980,1029,5328,Outdoor Ads
+981,1030,4519,Social Media Ads
+982,1031,4734,Radio and Podcasts
+983,1032,5110,Outdoor Ads
+984,1033,5373,Outdoor Ads
+985,1034,5344,Social Media Ads
+986,1035,5068,Radio and Podcasts
+987,1036,5655,Radio and Podcasts
+988,1037,4057,Radio and Podcasts
+989,1038,4699,Outdoor Ads
+990,1039,5070,Outdoor Ads
+991,1040,5430,Video Ads
+992,1041,3700,Social Media Ads
+993,1042,6060,Outdoor Ads
+994,1043,4064,Outdoor Ads
+995,1044,5421,Radio and Podcasts
+996,1045,4692,Direct Mail
+997,1046,5446,Outdoor Ads
+998,1047,5614,Direct Mail
+999,1048,5714,Social Media Ads
+1000,1049,5040,Outdoor Ads
