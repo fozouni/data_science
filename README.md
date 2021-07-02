@@ -1,5 +1,5 @@
 # data_science
-Source codes and the whole datasets of the first "Data Science Course
+Source codes, files and the whole datasets of the first "**Data Science Course**"
 
 To find out more about us, go to:
 
