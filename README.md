@@ -11,7 +11,7 @@ https://www.m-fozouni.ir/category/data-science/
 
 You can check my academic webpage at the following address:
 
-http://profs.gonbad.ac.ir/fozouni/en
+http://profs.gonbad.ac.ir/en/fozouni
 
 If you are a talented person, please give us a hand and fill the following form:
 
