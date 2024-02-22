@@ -1,7 +1,7 @@
 # data_science
 Source codes, files and the whole datasets of the first "**Data Science Course**"
 
-To find out more about us, go to:
+To find out more about us, go  to:
 
 https://www.m-fozouni.ir/
 
